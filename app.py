@@ -1,7 +1,7 @@
 import chainlit as cl
 import openai
 
-openai.api_key = "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"
+openai.api_key = "YOUR-API-KEY"
 
 
 @cl.on_message
